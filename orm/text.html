@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* Reset some default styles */
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Card Styles */
+.card {
+    width: 100%;
+    max-width: 400px; /* Adjust the maximum width to your preference */
+    border: none;
+    margin: 0 auto; /* Center the card */
+}
+
+.card img {
+    max-width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+.category-heading {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #333;
+}
+
+.category-heading-text {
+    color: #555;
+}
+
+.categories-links a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.view-all-bottom {
+    border-top: 1px solid #e0e0e0;
+    padding-top: 10px;
+}
+
+.categories-links a + br {
+    margin-top: 10px;
+}
+
+.view-all-bottom a {
+    display: block;
+    text-align: center;
+}
+
+
+    </style>
+</head>
+<body>
+
+    
+    <div class="container text-center mt-5">
+        <div class="card mb-4 catal">
+            <div class="card-body category-portfolio-card pb-3 shadow">
+                <img src="cisco-routers.jpg" width="150px" class="img-fluid mx-auto d-block pt-3" alt="" />
+                <p class="category-heading">Cisco Routers</p>
+                <p class="category-heading-text">Explore the wide range of Cisco Routers, enhancing your wired and wireless networks for high performance, reliability, and security at affordable prices.</p>
+                <div class="categories-links">
+                    <a href="" class="light-blue">Cisco 4000 Series ISR</a><br>
+                    <a href="" class="light-blue">Cisco 1900 Series ISR</a><br>
+                    <a href="" class="light-blue">Cisco 2900 Series ISR</a><br>
+                    <a href="" class="light-blue">Cisco 800 ISR &amp; 900 ISR</a><br>
+                    <a href="" class="light-blue">Cisco ASR 1000 Series</a><br>
+                    <div class="view-all-bottom">
+                        <span></span>
+                        <a href="" class="text-center py-2 light-blue">View All Cisco Routers Products</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

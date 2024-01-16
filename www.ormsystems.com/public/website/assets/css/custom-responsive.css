@@ -1,0 +1,1036 @@
+.form-div form {
+    width: 50%;
+    margin: auto
+}
+
+a.btn.facebook,
+a.btn.google {
+    width: 49%
+}
+
+button.btn.btn-primary-1 {
+    width: 100%
+}
+
+.category-heading {
+    line-height: 30px
+}
+
+@media only screen and (max-width:1366px) {
+    .category-portfolio-card {
+        height: 560px
+    }
+    .view-all-bottom>a {
+        font-size: 9pt;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0
+    }
+    a.btn.facebook,
+    a.btn.google {
+        width: 49%
+    }
+    .think-it img.think-img {
+        width: 100%;
+        height: 680px;
+        object-fit: cover;
+        position: absolute;
+        left: -113px
+    }
+    .form-div form {
+        width: 50%;
+        margin: auto
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    .category-portfolio-card {
+        height: 700px
+    }
+    .view-all-bottom>a {
+        font-size: 9pt;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0
+    }
+    .pre-sales img {
+        width: 100%
+    }
+    .owl-nav {
+        display: none
+    }
+    .product-image img {
+        width: 100%
+    }
+    .solution-sec .nav-tabs li a {
+        font-size: 13px
+    }
+    .service-head h1,
+    .brand-head h1,
+    .our-operate h1,
+    .related-product h1 {
+        font-size: 25px !important
+    }
+    .pre-detail h2,
+    .it-sec a h2 {
+        position: absolute;
+        bottom: 27px;
+        left: 0;
+        right: 0
+    }
+    .it-sec {
+        padding: 53px 40px
+    }
+    .think-it img.think-img {
+        width: 100%;
+        left: -35px
+    }
+    .client-detail {
+        border: 2px solid #ddd;
+        padding: 34px 32px
+    }
+    .footer-1 h3 {
+        font-size: 14px !important
+    }
+    .we-offer {
+        width: 100%
+    }
+    .think-detail {
+        padding-top: 100px
+    }
+    .map {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+    .banner-detail {
+        padding-top: 100px !important
+    }
+    .presale-solution a.get-quote,
+    .presale-solution a.talk-expert {
+        width: 222.77px;
+        text-align: center
+    }
+    .presale-solution h1 {
+        margin-top: 20px !important;
+        font-size: 45px !important
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .shop-detail {
+        padding: 0
+    }
+    .category-portfolio-card {
+        height: 560px
+    }
+    .creat-account {
+        margin-top: 100px
+    }
+    .continue-btn {
+        margin-top: 10px;
+        margin-bottom: 10px
+    }
+    .required {
+        margin-bottom: 10px !important
+    }
+    .solution-img img {
+        height: 100%
+    }
+    #profile {
+        padding: 35px 0 !important
+    }
+    a.btn.facebook,
+    a.btn.google {
+        width: 49%
+    }
+    .pre-sales img {
+        width: 100%
+    }
+    .breadcrumb-sec {
+        margin-top: 0
+    }
+    .solution-sec .nav-tabs li a {
+        font-size: 10px
+    }
+    .service-head h1,
+    .brand-head h1,
+    .our-operate h1,
+    .related-product h1 {
+        font-size: 21px !important
+    }
+    .it-sec {
+        padding: 53px 14px;
+        height: 400px
+    }
+    .pre-detail h3 {
+        font-size: .75em !important
+    }
+    .brand-row {
+        padding: 0 55px !important
+    }
+    .it-sec p {
+        font-size: 15px
+    }
+    .think-detail {
+        padding-top: 50px
+    }
+    .it-sec h4 {
+        font-size: 13px
+    }
+    .map {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+    .client-detail p {
+        height: auto
+    }
+    .colphan p {
+        font-size: 13px
+    }
+    customer-serv ul li a,
+    .quick-link ul li a,
+    .let-us ul li a,
+    footer.footer-2 ul li a,
+    footer.footer-2 ul li p {
+        font-size: 9px !important
+    }
+    .let-us>ul li>a {
+        font-size: 14px !important
+    }
+    .quick-link>ul li>a {
+        font-size: 14px !important
+    }
+    .cart-sec {
+        margin-left: -32px
+    }
+    .banner-detail {
+        padding-top: 20px !important
+    }
+    .carousel-banner {
+        width: 100%
+    }
+    .img-con-box h4 {
+        font-size: 14px
+    }
+    .img-con-box p {
+        font-size: 13px
+    }
+    section.core-value-sec {
+        padding: 51px 0
+    }
+    .product-image img {
+        width: 100%
+    }
+    .product-content h3 {
+        font-size: 24px !important
+    }
+    .contact-head,
+    .existing-client,
+    .your-need,
+    .form-sec {
+        padding: 0 100px !important
+    }
+    .solution-software .solution-deatil h3,
+    .dynamic-software .solution-deatil h3 {
+        font-size: 22px !important
+    }
+    .cost-effect h1 {
+        font-size: 40px !important
+    }
+    .cost-effect img {
+        margin-top: 70px
+    }
+    .data-cyber>img {
+        margin-top: 115px
+    }
+    .presale-solution a.get-quote,
+    .presale-solution a.talk-expert {
+        width: 223.77px
+    }
+    .presale-solution h1 {
+        margin-top: 20px !important;
+        font-size: 33px !important
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .pre-sales {
+        text-align: center;
+        box-shadow: 0 68px 45px 25px #f2faff54;
+        margin-top: 10px
+    }
+    .account-sec {
+        text-align: center
+    }
+    .solution-sec .nav-tabs li a {
+        font-size: 11px;
+        padding-bottom: 1px
+    }
+    .service-head h1,
+    .brand-head h1,
+    .our-operate h1,
+    .related-product h1 {
+        font-size: 21px !important;
+        line-height: 22px
+    }
+    .it-sec {
+        padding: 53px 14px;
+        margin-top: 10px
+    }
+    .think-it img.think-img {
+        width: 100%;
+        left: 0;
+        opacity: .2
+    }
+    .payment-method {
+        text-align: center
+    }
+    .mini-header a {
+        font-size: 12px
+    }
+    .account-sec a.sign-in {
+        border-right: 1px solid #529aaf;
+        padding: 0 8px 0 7px;
+        margin-right: 4px
+    }
+    .map .location-img {
+        -webkit-animation: mover 1s infinite alternate;
+        animation: mover 1s infinite alternate;
+        width: 30px !important;
+        position: relative;
+        left: 30px !important;
+        bottom: 95px !important
+    }
+    .solution-software .solution-deatil h3,
+    .dynamic-software .solution-deatil h3 {
+        font-size: 20px !important
+    }
+    .presale-solution h1 {
+        margin-top: 20px !important;
+        font-size: 21px !important
+    }
+}
+
+@media only screen and (min-width:421px) and (max-width:520px) {
+    .category-portfolio-heading h3 {
+        font-size: 30px !important
+    }
+    .main_sec {
+        margin-top: 8.75rem
+    }
+    .category-portfolio-banner {
+        width: 100%;
+        height: 301px
+    }
+    .category-portfolio-card {
+        height: 460px
+    }
+    .creat-account {
+        margin-top: 100px
+    }
+    a.btn.facebook,
+    a.btn.google {
+        width: 100%
+    }
+    .form-div form {
+        width: 100%;
+        margin-top: 90px
+    }
+    .pre-sales {
+        padding: 0 100px
+    }
+    .pre-detail h3 {
+        font-size: 1em !important
+    }
+    .solution-sec .nav-tabs li a {
+        font-size: 15px;
+        padding-bottom: 1px
+    }
+    .it-sec h4 {
+        font-size: 25px
+    }
+    .it-sec {
+        padding: 53px 14px;
+        height: 330px
+    }
+    .we-serve .we-head h1,
+    .client-head h1 {
+        text-align: center;
+        font-size: 23px !important
+    }
+    .we-serve .we-head h1,
+    .client-head h1 {
+        text-align: center;
+        font-size: 23px !important
+    }
+    .we-serve .we-head h1,
+    .client-head h1 {
+        text-align: center;
+        font-size: 23px !important
+    }
+    .payment-method {
+        text-align: center
+    }
+    .colphan p {
+        text-align: center
+    }
+    .client-detail {
+        border: 2px solid #ddd;
+        padding: 34px 32px;
+        margin: 5px 15px
+    }
+    .owl-nav {
+        margin-left: 15px
+    }
+    .map .location-img {
+        -webkit-animation: mover 1s infinite alternate;
+        animation: mover 1s infinite alternate;
+        width: 45px;
+        position: relative;
+        bottom: 105px;
+        left: 100px
+    }
+    footer.footer-2 ul {
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 0 !important;
+        column-count: 2;
+        display: block
+    }
+    .client-say {
+        padding: 0 0 0 0
+    }
+    footer.footer-2 {
+        position: inherit !important
+    }
+    footer.footer-1 {
+        padding-bottom: 0 !important
+    }
+    .account-sec {
+        text-align: center
+    }
+    .uk-sec a {
+        text-align: center;
+        display: block
+    }
+    a.logo {
+        display: block;
+        text-align: center;
+        margin-bottom: 15px
+    }
+    .cart-sec a.cart {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 13px;
+        margin-left: 60px
+    }
+    .cart .count {
+        left: 200px
+    }
+    .banner-detail {
+        padding-top: 130px !important
+    }
+    .img-con-box {
+        transition: all .5s ease-in-out;
+        margin: auto;
+        width: 50%;
+        text-align: center
+    }
+    .solution-software .solution-deatil {
+        padding-left: 15px !important;
+        padding-right: 15px !important
+    }
+    .dynamic-software .solution-deatil {
+        padding: 0 15px !important
+    }
+    .ready-move h1 {
+        font-size: 20px !important
+    }
+    .cost-effect h1 {
+        font-size: 30px !important
+    }
+    .cost-images {
+        padding-left: 0 !important
+    }
+    .meta-desc img {
+        padding-right: 0
+    }
+    .cost-effect img {
+        margin-top: 0;
+        padding-left: 15px
+    }
+    .solution-deatil {
+        padding: 0 15px 0 !important
+    }
+    .approach-img>img {
+        padding-left: 0
+    }
+    .presale-solution h1 {
+        margin-top: 20px !important;
+        font-size: 30px !important
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:420px) {
+    .category-portfolio-heading h3 {
+        font-size: 25px !important
+    }
+    .checkout-pg .nav-tabs li {
+        margin-right: unset
+    }
+    .category-portfolio-banner {
+        width: 100%;
+        height: 301px
+    }
+    .main_sec {
+        margin-top: 5rem
+    }
+    .dashboard-body {
+        margin-top: 68px !important
+    }
+    .category-portfolio-card {
+        height: 500px
+    }
+    .creat-account {
+        margin-top: 100px
+    }
+    a.btn.facebook,
+    a.btn.google {
+        width: 100%
+    }
+    .form-div form {
+        width: 100%;
+        margin-top: 90px
+    }
+    .pre-sales {
+        padding: 0 15px
+    }
+    .pre-detail h3 {
+        font-size: 1em !important
+    }
+    .solution-sec .nav-tabs li a {
+        font-size: 10px;
+        padding: .3rem
+    }
+    .it-sec h4 {
+        font-size: 25px
+    }
+    #cart-count {
+        left: 20px
+    }
+    .it-sec {
+        padding: 53px 14px;
+        height: 381px
+    }
+    .we-serve .we-head h1,
+    .client-head h1 {
+        text-align: center;
+        font-size: 23px !important
+    }
+    .we-serve .we-head h1,
+    .client-head h1 {
+        text-align: center;
+        font-size: 23px !important
+    }
+    .we-serve .we-head h1,
+    .client-head h1 {
+        text-align: center;
+        font-size: 23px !important
+    }
+    .payment-method {
+        text-align: center
+    }
+    .colphan p {
+        text-align: center;
+        font-size: 11px
+    }
+    .colphan p a {
+        font-size: 11px !important
+    }
+    .client-detail {
+        border: 2px solid #ddd;
+        padding: 34px 32px;
+        margin: 5px 15px
+    }
+    .owl-nav {
+        margin-left: 15px
+    }
+    .service-head h1,
+    .brand-head h1,
+    .our-operate h1,
+    .related-product h1 {
+        font-size: 21px !important;
+        line-height: 22px
+    }
+    .pre-detail h2,
+    .it-sec a h2 {
+        position: absolute;
+        bottom: 7px;
+        left: 0;
+        right: 0
+    }
+    .client-detail {
+        height: 350px
+    }
+    .map .location-img {
+        -webkit-animation: mover 1s infinite alternate;
+        animation: mover 1s infinite alternate;
+        width: 21px;
+        position: relative;
+        bottom: 105px;
+        left: 100px
+    }
+    footer.footer-1 {
+        padding-bottom: 0 !important
+    }
+    footer.footer-2 ul {
+        display: block
+    }
+    footer.footer-2 ul img {
+        margin-right: 9px;
+        margin-top: 10px;
+        margin-bottom: 10px
+    }
+    .client-say {
+        padding: 0 0 0 0
+    }
+    customer-serv ul li a,
+    .quick-link ul li a,
+    .let-us ul li a,
+    footer.footer-2 ul li a,
+    footer.footer-2 ul li p {
+        font-size: 15px !important
+    }
+    .map {
+        height: 250px
+    }
+    footer.footer-2 {
+        position: inherit !important
+    }
+    .banner-detail>h1 {
+        font-size: 2.625rem !important
+    }
+    .carousel-item>img {
+        height: 18rem
+    }
+    .banner-detail {
+        padding-top: 140px !important
+    }
+    .container.banner-absol {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 10px
+    }
+    .our-service,
+    .brand-offer {
+        padding: 70px 0
+    }
+    .account-sec {
+        text-align: center
+    }
+    .uk-sec a {
+        text-align: center;
+        display: block
+    }
+    a.logo {
+        display: block;
+        text-align: center;
+        margin-bottom: 15px
+    }
+    .cart-sec a.cart {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 13px;
+        margin-left: 60px;
+        position: absolute;
+        right: 0;
+        top: 16px
+    }
+    .cart-sec a.cart h4 {
+        color: #fff !important
+    }
+    .cart .count {
+        left: 20px
+    }
+    .banner-detail {
+        padding-top: unset !important
+    }
+    .img-con-box {
+        transition: all .5s ease-in-out;
+        margin: auto;
+        width: 50%;
+        text-align: center
+    }
+    section.sec-one h3 {
+        font-size: 34px !important
+    }
+    .solution-software .solution-deatil {
+        padding-left: 15px !important;
+        padding-right: 15px !important
+    }
+    .contact-head,
+    .existing-client,
+    .your-need,
+    .form-sec {
+        padding: 0 50px !important
+    }
+    .cost-images {
+        padding-left: 0 !important
+    }
+    .meta-desc img {
+        padding-right: 0
+    }
+    .cost-effect img {
+        margin-top: 0;
+        padding-left: 15px
+    }
+    .solution-software .solution-deatil {
+        padding-left: 15px !important;
+        padding-right: 15px !important
+    }
+    .dynamic-software .solution-deatil {
+        padding: 0 15px !important
+    }
+    .ready-move h1 {
+        font-size: 20px !important
+    }
+    .cost-effect h1 {
+        font-size: 30px !important
+    }
+    .ready-move a.get-quote,
+    .ready-move .talk-expert,
+    .cost-effect a.get-free-colsul,
+    .presale-solution a.get-quote,
+    .presale-solution a.talk-expert,
+    .count-expert .schedule-call,
+    .count-expert a.browse-product {
+        padding: 8px 28px
+    }
+    .presale-solution h1 {
+        font-size: 28px !important
+    }
+    .solution-deatil {
+        padding: 0 15px 0 !important
+    }
+    .approach-img>img {
+        padding-left: 0
+    }
+    .presale-solution h1 {
+        margin-top: 20px !important;
+        font-size: 21px !important
+    }
+}
+
+@media only screen and (max-width:320px) {
+    .category-heading {
+        font-size: 15pt
+    }
+    .category-portfolio-heading :last-child {
+        font-size: 15px
+    }
+    .cart .count {
+        left: 100px
+    }
+    .category-heading-text {
+        font-size: 10pt
+    }
+    .category-portfolio-heading h3 {
+        font-size: 25px !important
+    }
+    .category-portfolio-banner {
+        width: 100%;
+        height: 301px
+    }
+    .category-portfolio-card {
+        height: 600px
+    }
+    .creat-account {
+        margin-top: 100px
+    }
+    a.btn.facebook,
+    a.btn.google {
+        width: 100%;
+        font-size: 12px
+    }
+    .form-div form {
+        width: 100%;
+        margin-top: 90px
+    }
+    .pre-sales {
+        padding: 0 15px
+    }
+    footer.footer-2 {
+        position: inherit !important
+    }
+    .pre-detail h3 {
+        font-size: 1em !important
+    }
+    .solution-sec .nav-tabs li a {
+        font-size: 12px;
+        padding-bottom: 1px
+    }
+    footer.footer-1 {
+        padding-bottom: 0 !important
+    }
+    .it-sec h4 {
+        font-size: 25px
+    }
+    .it-sec {
+        padding: 53px 14px;
+        height: 381px
+    }
+    .we-serve .we-head h1,
+    .client-head h1 {
+        text-align: center;
+        font-size: 23px !important
+    }
+    .we-serve .we-head h1,
+    .client-head h1 {
+        text-align: center;
+        font-size: 23px !important
+    }
+    .we-serve .we-head h1,
+    .client-head h1 {
+        text-align: center;
+        font-size: 23px !important
+    }
+    .payment-method {
+        text-align: center
+    }
+    .colphan p {
+        text-align: center;
+        font-size: 11px
+    }
+    .colphan p a {
+        font-size: 11px !important
+    }
+    .client-detail {
+        border: 2px solid #ddd;
+        padding: 34px 32px;
+        margin: 5px 15px
+    }
+    .owl-nav {
+        margin-left: 15px
+    }
+    .service-head h1,
+    .brand-head h1,
+    .our-operate h1,
+    .related-product h1 {
+        font-size: 21px !important;
+        line-height: 22px
+    }
+    .pre-detail h2,
+    .it-sec a h2 {
+        position: absolute;
+        bottom: 7px;
+        left: 0;
+        right: 0
+    }
+    .client-detail {
+        height: 420px
+    }
+    .map .location-img {
+        -webkit-animation: mover 1s infinite alternate;
+        animation: mover 1s infinite alternate;
+        width: 21px;
+        position: relative;
+        bottom: 105px
+    }
+    footer.footer-2 ul {
+        display: block
+    }
+    footer.footer-2 ul img {
+        margin-right: 9px;
+        margin-top: 10px;
+        margin-bottom: 10px
+    }
+    .client-say {
+        padding: 0 0 0 0
+    }
+    customer-serv ul li a,
+    .quick-link ul li a,
+    .let-us ul li a,
+    footer.footer-2 ul li a,
+    footer.footer-2 ul li p {
+        font-size: 15px !important
+    }
+    .map {
+        height: 250px
+    }
+    footer.footer-2 {
+        position: inherit
+    }
+    .banner-detail>h1 {
+        font-size: 30px !important
+    }
+    u .banner-detail {
+        padding-top: 140px !important
+    }
+    .our-service,
+    .brand-offer {
+        padding: 70px 0
+    }
+    .account-sec {
+        text-align: center
+    }
+    .uk-sec a {
+        text-align: center;
+        display: block
+    }
+    a.logo {
+        display: block;
+        text-align: center;
+        margin-bottom: 15px
+    }
+    .cart-sec a.cart {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 13px;
+        margin-left: 60px
+    }
+    section.brands-logo-slider h3 {
+        font-size: 23px !important;
+        color: #1d314f !important;
+        margin: 0;
+        padding-bottom: 40px
+    }
+    section.sec-one h3 {
+        font-size: 26px !important
+    }
+    .img-con-box {
+        transition: all .5s ease-in-out;
+        margin: auto;
+        width: 100%;
+        text-align: center
+    }
+    .solution-software .solution-deatil {
+        padding-left: 15px !important;
+        padding-right: 15px !important
+    }
+    .contact-head,
+    .existing-client,
+    .your-need,
+    .form-sec {
+        padding: 0 50px !important
+    }
+    .cost-images {
+        padding-left: 0 !important
+    }
+    .meta-desc img {
+        padding-right: 0
+    }
+    .cost-effect img {
+        margin-top: 0;
+        padding-left: 15px
+    }
+    .solution-software .solution-deatil {
+        padding-left: 15px !important;
+        padding-right: 15px !important
+    }
+    .dynamic-software .solution-deatil {
+        padding: 0 15px !important
+    }
+    .ready-move h1 {
+        font-size: 20px !important
+    }
+    .cost-effect h1 {
+        font-size: 30px !important
+    }
+    .ready-move a.get-quote,
+    .ready-move .talk-expert,
+    .cost-effect a.get-free-colsul,
+    .presale-solution a.get-quote,
+    .presale-solution a.talk-expert,
+    .count-expert .schedule-call,
+    .count-expert a.browse-product {
+        padding: 8px 20px;
+        font-size: 10px
+    }
+    .contact-head h1 {
+        font-size: 23px !important
+    }
+    .solution-deatil {
+        padding: 0 15px 0 !important
+    }
+    .approach-img>img {
+        padding-left: 0
+    }
+    .presale-solution h1 {
+        margin-top: 20px !important;
+        font-size: 17px !important
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:570px) {
+    .scroll {
+        overflow-x: auto
+    }
+    .checkout-pg .nav-tabs::before {
+        width: 90%
+    }
+    .step-tab {
+        margin-right: 35px !important
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:435px) {
+    .scroll-1 {
+        overflow-x: auto
+    }
+}
+
+@media only screen and (min-width:520px) and (max-width:576px) {
+    a.logo {
+        display: block;
+        text-align: center;
+        margin-bottom: 15px
+    }
+    .cart-sec a.cart {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 13px;
+        margin-left: 60px
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .solution-sec .nav-tabs li a {
+        padding-bottom: unset
+    }
+    .continue-btn {
+        margin: .625rem 0
+    }
+}
+
+@media only screen and (min-width:421px) and (max-width:576px) {
+    .cart .count {
+        position: absolute;
+        left: 225px
+    }
+    .dashboard-body {
+        margin-top: 100px !important
+    }
+}
+
+.mobile-menu {
+    display: none
+}
+
+@media(max-width:992px) {
+    .desktop-menu {
+        display: none
+    }
+    .mobile-menu {
+        display: block
+    }
+    section#header-sec {}
+}
